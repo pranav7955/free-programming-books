@@ -236,6 +236,7 @@
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+* [HTML & CSS: Design and Build Websites](https://wtf.tw/ref/duckett.pdf)
 
 
 ### iOS
